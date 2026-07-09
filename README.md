@@ -40,7 +40,7 @@ fun_fact:     Also shoot night & aesthetic photography — @saimx06 on Instagram
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="42" height="42" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="42" height="42" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="42" height="42" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matlab-colored.svg" alt="MATLAB" width="42" height="42" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="42" height="42" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="42" height="42" /></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="42" height="42" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="42" height="42" /></a>
@@ -54,12 +54,12 @@ fun_fact:     Also shoot night & aesthetic photography — @saimx06 on Instagram
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tariqjaved06&show_icons=true&count_private=true&title_color=FFC880&text_color=E8E8E8&icon_color=C6EF33&bg_color=19120A&hide_border=true&rank_icon=github" height="165" alt="stats" />
+<img src="https://github-readme-stats-ochre-ten-63.vercel.app/api?username=tariqjaved06&show_icons=true&count_private=true&title_color=FFC880&text_color=E8E8E8&icon_color=C6EF33&bg_color=19120A&hide_border=true&rank_icon=github" height="165" alt="stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqjaved06&stroke=19120A&background=19120A&ring=FFC880&fire=C6EF33&currStreakNum=E8E8E8&currStreakLabel=FFC880&sideNums=E8E8E8&sideLabels=E8E8E8&dates=E8E8E8&hide_border=true" height="165" alt="streak" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqjaved06&langs_count=8&layout=compact&title_color=FFC880&text_color=E8E8E8&icon_color=C6EF33&bg_color=19120A&hide_border=true&locale=en" alt="top languages" />
+<img src="https://github-readme-stats-ochre-ten-63.vercel.app/api/top-langs/?username=tariqjaved06&langs_count=8&layout=compact&title_color=FFC880&text_color=E8E8E8&icon_color=C6EF33&bg_color=19120A&hide_border=true&locale=en" alt="top languages" />
 
 </div>
 
@@ -81,7 +81,7 @@ fun_fact:     Also shoot night & aesthetic photography — @saimx06 on Instagram
 
 <div align="center">
 <a href="https://tariqjaved06.github.io/-classico-italiano/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tariqjaved06&repo=-classico-italiano&title_color=FFC880&text_color=E8E8E8&icon_color=C6EF33&bg_color=19120A&hide_border=true" />
+<img src="https://github-readme-stats-ochre-ten-63.vercel.app/api/pin/?username=tariqjaved06&repo=-classico-italiano&title_color=FFC880&text_color=E8E8E8&icon_color=C6EF33&bg_color=19120A&hide_border=true" />
 </a>
 </div>
 
