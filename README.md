@@ -34,17 +34,16 @@ fun_fact:     Also shoot night & aesthetic photography — @saimx06 on Instagram
 ### Tech Stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-19120A?style=for-the-badge&logo=javascript&logoColor=FFC880" />
-<img src="https://img.shields.io/badge/HTML5-19120A?style=for-the-badge&logo=html5&logoColor=FFC880" />
-<img src="https://img.shields.io/badge/CSS3-19120A?style=for-the-badge&logo=css3&logoColor=FFC880" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-19120A?style=for-the-badge&logo=tailwindcss&logoColor=C6EF33" />
-<img src="https://img.shields.io/badge/React-19120A?style=for-the-badge&logo=react&logoColor=C6EF33" />
-<br>
-<img src="https://img.shields.io/badge/C++-19120A?style=for-the-badge&logo=cplusplus&logoColor=FFC880" />
-<img src="https://img.shields.io/badge/MATLAB-19120A?style=for-the-badge&logo=mathworks&logoColor=FFC880" />
-<img src="https://img.shields.io/badge/Git-19120A?style=for-the-badge&logo=git&logoColor=C6EF33" />
-<img src="https://img.shields.io/badge/Linux-19120A?style=for-the-badge&logo=linux&logoColor=C6EF33" />
-<img src="https://img.shields.io/badge/VS_Code-19120A?style=for-the-badge&logo=visualstudiocode&logoColor=FFC880" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="42" height="42" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="42" height="42" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="42" height="42" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="42" height="42" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="42" height="42" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="42" height="42" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matlab-colored.svg" alt="MATLAB" width="42" height="42" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="42" height="42" /></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="42" height="42" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="42" height="42" /></a>
 </p>
 
 <br>
